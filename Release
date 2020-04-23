@@ -1,0 +1,8 @@
+Origin: NSCake 🧁
+Label: NSCake Repo
+Suite: stable
+Version: 1.0
+Codename: nscake-ios
+Architectures: iphoneos-arm
+Components: main
+Description: Tweaks by NSExceptional
