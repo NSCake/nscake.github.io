@@ -1,0 +1,32 @@
+Package: com.nscake.redditgold
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.redditgold_1.0.0.deb
+Size: 29522
+MD5sum: c6b31d67b3d2c616a12e9c90a0003759
+SHA1: 2b7898f599391e7fb970815e25f3a083d826c04d
+SHA256: 53b8ee58672e65db18a748803ca1369b6fc0a6d88c9effc34ce414e51a4d6b48
+Section: Tweaks
+Description: Enhancements to the Reddit app
+Author: Tanner Bennett
+Name: RedditGold
+
+Package: com.pantsthief.retrotabbar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.retrotabbar_0.0.1.deb
+Size: 3844
+MD5sum: 85b60335f7183eb225b77cefb252acbe
+SHA1: 118d6ca16e8ebe8e4cbb4d05fb58016aa525128b
+SHA256: 632b9e1f9c55f29c2f030d205ff325caf36a6e0cde6f8a0ba160694e29eb8fa2
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett
+Name: RetroTabBar
+
