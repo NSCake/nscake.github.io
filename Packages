@@ -14,6 +14,22 @@ Description: Enhancements to the Reddit app
 Author: Tanner Bennett
 Name: RedditGold
 
+Package: com.nscake.swipeexpanderfix
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.nscake.swipeexpanderfix_0.0.2.deb
+Size: 3062
+MD5sum: d9e2fb88a904593ecd181f726247e4c3
+SHA1: 036632ae08d41ebcd1c3693fc942746f941456a2
+SHA256: 535e24e3d400d71c96f5b1eea790a281e2f14b23aa6be490302bf0d00aa2911e
+Section: Tweaks
+Description: Fix SwipeExpander crashing on iOS 13
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: SwipeExpanderFix
+
 Package: com.pantsthief.flexing
 Version: 0.0.8
 Architecture: iphoneos-arm
