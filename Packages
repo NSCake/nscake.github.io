@@ -1,3 +1,19 @@
+Package: com.nscake.photos.noscreenshots
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.photos.noscreenshots_1.0.0.deb
+Size: 8120
+MD5sum: 2f5a7684dbe9180339e2ccad0b9c3e89
+SHA1: 96d17cfae40abb4e719fefb93525148e3c819f18
+SHA256: a4a2b184e7dac994fdf9a31f3361cb02824c898f6ae6d1139106d73d7977dcac
+Section: Tweaks
+Description: Hides screenshots and screen recordings from the main Photos tab. Also makes the theater navigation bars hide instantly.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoScreenshots
+
 Package: com.nscake.redditgold
 Version: 1.0.0
 Architecture: iphoneos-arm
