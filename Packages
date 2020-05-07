@@ -123,14 +123,16 @@ Pre-Depends: firmware (>= 8.0)
 Depends: libflex
 Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
 Filename: ./debs/com.pantsthief.flexing_1.3.0.deb
-Size: 15968
-MD5sum: e0eba6334ec6695dc4d05303ce9acf87
-SHA1: ca42073ffb2098697676fe88e6d102fac635860a
-SHA256: f5b164349f5cd0e2675e2564831fd78a826fbee63e837fef7fa69ffb1288e57b
+Size: 15556
+MD5sum: c8b66df37672cfcabf00b0df5be30ecd
+SHA1: e840b8194febbea9b5f31fdd862054cad7b447a1
+SHA256: df0d767e448350b800369f3eb25721dc67c2f31c8e46fed161bd4242b4e7af8c
 Section: Tweaks
 Description: Open FLEX anywhere!
 Author: Tanner Bennett
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
 Name: FLEXing
+Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
 
 Package: com.pantsthief.retrotabbar
 Version: 0.0.1
@@ -159,6 +161,22 @@ Size: 1999744
 MD5sum: 2b705edbafe747707a5ff8545d8c874e
 SHA1: 3a7c25a57ca73eb3530ac130175d3d974b37d96f
 SHA256: 6425607fc72f4e7e11beb45d67508b8182060f582ad7e8ecfc4029d69c2d1aad
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett
+Name: libFLEX
+
+Package: libflex
+Version: 4.1.2~b
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 8068
+Pre-Depends: firmware (>= 9.0)
+Filename: ./debs/libflex_4.1.2~b.deb
+Size: 1999548
+MD5sum: 1ccabe30a2ff8f7d36a0838dd91fe9da
+SHA1: 7e7a6e4ff2b6423c0275617d02d74c09c630666a
+SHA256: 77d327c2496928a54243298655e20c1311397cac82f4d7096d52dd75474c83de
 Section: Tweaks
 Description: A library for Flipboard Explorer.
 Author: Tanner Bennett
