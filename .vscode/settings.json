@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        ".vscode/": true,
+        "*.sh": true,
+        "debs/": true
+    },
+    "triggerTaskOnSave.tasks": {
+        "Preprocess with Pug": ["*.pug"]
+    }
+}
