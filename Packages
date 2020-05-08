@@ -1,3 +1,21 @@
+Package: com.nscake.notwitterlinkanalytics
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.notwitterlinkanalytics_0.0.1.deb
+Size: 3856
+MD5sum: 672952f37436c2d2fcd740aa9ad41f07
+SHA1: 39a521fb9ee92ca82e26990460c9b65d9aca4d38
+SHA256: d589703ccc639ea3c50cb955dcb01d713688c9d88725b6ebc2f6b4e6ce64e8fe
+Section: Tweaks
+Description: Skip t.co!
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.nscake.notwitterlinkanalytics
+Name: NoTwitterLinkAnalytics
+Sileodepiction: https://nscake.github.io/depictions/com.nscake.notwitterlinkanalytics.sileo.json
+
 Package: com.nscake.photos.noscreenshots
 Version: 1.0.0
 Architecture: iphoneos-arm

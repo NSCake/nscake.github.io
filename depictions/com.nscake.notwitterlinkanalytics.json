@@ -1,0 +1,1 @@
+{"package":"com.nscake.notwitterlinkanalytics","name":"NoTwitterLinkAnalytics","depiction":"This tweak automatically skips the t.co twitter analytics URLs when tapping a link in a tweet. TODO: skip t.co for cards.","depends":"mobilesubstrate"}
