@@ -1,3 +1,35 @@
+Package: com.nscake.icleanerzombie
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.icleanerzombie_0.0.1.deb
+Size: 2888
+MD5sum: 83fedd915e8473ec1a5b51b68fd15739
+SHA1: 69ce1fee94226ae88a205d2acc1fb80aeff99b14
+SHA256: f303a95a72f5d763fb0446095acd1f19129671c6ccd86cc9fefac494a64b2964
+Section: Tweaks
+Description: Keep iCleaner alive when you leave the app
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: iCleanerZombie
+
+Package: com.nscake.noimgurredirect
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.noimgurredirect_0.0.1.deb
+Size: 5876
+MD5sum: 0bff61cd766769adb366dbdfd4324851
+SHA1: 14018b0f69f0451bc59102bced160940d0cea1c6
+SHA256: aedb42c3f62409816e9e576dd91b75c218a0dd508b397f708049ad10ae1ea111
+Section: Tweaks
+Description: Prevent Imgur direct links from taking you to the mobile site
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoImgurRedirect
+
 Package: com.nscake.notwitterlinkanalytics
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -167,6 +199,22 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Tanner Bennett
 Name: RetroTabBar
+
+Package: com.pantsthief.tbtweaks11
+Version: 13.4
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.tbtweaks11_13.4.deb
+Size: 10388
+MD5sum: 49f79d8779a85c574bfacf25f1264ef3
+SHA1: bad71c72edec8943844253cad22d231c4d283398
+SHA256: 6faafa07e963074e60dbffb89ca8710367a0fe59f03a7da01917b12b58dbe155
+Section: Tweaks
+Description: Various SpringBoard tweaks for iOS 11+
+Author: Tanner Bennett
+Name: TBTweaks11
 
 Package: libflex
 Version: 4.1.1-1
