@@ -80,6 +80,22 @@ Description: Enhancements to the Reddit app
 Author: Tanner Bennett
 Name: RedditGold
 
+Package: com.nscake.settingssections
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.settingssections_0.0.1.deb
+Size: 5704
+MD5sum: 5cf143401f969eaed13a25b9669441b6
+SHA1: a6b155069f1f179d2638d3e001e1aec4eb39ad19
+SHA256: 84714ea42de55a7d59291fd6ac62f540628583c4401f831a1282684cb667e035
+Section: Tweaks
+Description: Add section indexes to Preferences
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: SettingsSections
+
 Package: com.nscake.swipeexpanderfix
 Version: 0.0.2
 Architecture: iphoneos-arm
