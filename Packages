@@ -30,6 +30,23 @@ Description: Prevent Imgur direct links from taking you to the mobile site
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: NoImgurRedirect
 
+Package: com.nscake.noscrollbargrabdelay
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 200
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.noscrollbargrabdelay_0.0.1.deb
+Size: 3956
+MD5sum: 99288f30a8ff1107ac1d6c0817dfde4c
+SHA1: 378e233297beb7cfe6389f1f4c01780f88b4e934
+SHA256: 36afeab71a305541416f22a78d10b178ecdb9093b19c07b8dd9b5fe65a844d4e
+Section: Tweaks
+Description: Removes the delay when trying to drag a scroll bar.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoScrollbarGrabDelay
+
 Package: com.nscake.notwitterlinkanalytics
 Version: 0.0.1
 Architecture: iphoneos-arm
