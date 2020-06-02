@@ -1,3 +1,19 @@
+Package: com.nscake.delayscontenttouches
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.delayscontenttouches_0.0.1.deb
+Size: 4050
+MD5sum: f1193dc2a0e712f42c360bc69bcf0430
+SHA1: ee6b630e2f3e88535111d0b3358660676f6079b6
+SHA256: 9f917052a0361805db2f23105a6104768247e75507857c8868f6b11aefe4fae1
+Section: Tweaks
+Description: Disable delaysContentTouches on all scroll views
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: ResponsiveScrollViews
+
 Package: com.nscake.icleanerzombie
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -47,6 +63,22 @@ Description: Removes the delay when trying to drag a scroll bar.
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: NoScrollbarGrabDelay
 
+Package: com.nscake.nossl
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.nossl_0.0.1.deb
+Size: 7936
+MD5sum: fe423b1e2828a72d56937caf7ba0e434
+SHA1: d8e466413ffc8647d4dc15f153d6c1b8a75cf1bc
+SHA256: d49a864c8a281fdf723d2fde4d8f2a106d8078a5fdd26728fcd1000309ab609b
+Section: Tweaks
+Description: Disable SSL cert pinning
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoSSL
+
 Package: com.nscake.notwitterlinkanalytics
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -64,6 +96,24 @@ Author: Tanner Bennett <thepantsthief@me.com>
 Depiction: https://nscake.github.io/package.html?package=com.nscake.notwitterlinkanalytics
 Name: NoTwitterLinkAnalytics
 Sileodepiction: https://nscake.github.io/depictions/com.nscake.notwitterlinkanalytics.sileo.json
+
+Package: com.nscake.photos.fixphotos
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.photos.fixphotos_1.0.1.deb
+Size: 7874
+MD5sum: 3809d6bec63502aeb15f8fdd924df885
+SHA1: 8cc3a5d3cdad93ef0529e6e2d61edb1cf837beeb
+SHA256: 173b59731424f6bd2caaf3971bf160e5fb15f2ecaf59f2bb501ec5e1ef1ab5de
+Section: Tweaks
+Description: Various tweaks for the iOS 13 Photos app.
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+Name: FixPhotos
+Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
 
 Package: com.nscake.photos.noscreenshots
 Version: 1.0.0
@@ -144,6 +194,22 @@ Section: Tweaks
 Description: Fix SwipeExpander crashing on iOS 13
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: SwipeExpanderFix
+
+Package: com.nsexceptional.darksnapchat
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/com.nsexceptional.darksnapchat_0.0.1.deb
+Size: 9094
+MD5sum: 594dee32de40a3e620e77de96cce92ac
+SHA1: 26c6438245223b9d6a361defeac5c3a7bec1bb5b
+SHA256: 6a6f937c7ee5da8078071119b9cd997a06b3717d0588a765e13b5dba6b4d4efb
+Section: Tweaks
+Description: Dark mode and no Discover for Snapchat
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: DarkSnapchat
 
 Package: com.pantsthief.flexing
 Version: 0.0.8
@@ -232,6 +298,22 @@ Author: Tanner Bennett <thepantsthief@me.com>
 Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
 Name: FLEXing
 Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
+Package: com.pantsthief.nossl
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.nossl_0.0.1.deb
+Size: 5350
+MD5sum: c802097bbe2ac74e772910ef69d33aff
+SHA1: 897016c540f665f5995ff69e67bc7621ed072e6d
+SHA256: ccff736111f446ed6ca786545c3d243cd668a4accd050e747a03dc51ceb86208
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett
+Name: NoSSL
 
 Package: com.pantsthief.retrotabbar
 Version: 0.0.1
