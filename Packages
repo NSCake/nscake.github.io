@@ -46,6 +46,22 @@ Description: Prevent Imgur direct links from taking you to the mobile site
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: NoImgurRedirect
 
+Package: com.nscake.noscrollbargrabbing
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.noscrollbargrabbing_0.0.1.deb
+Size: 3148
+MD5sum: 61e04df194a803a673070a82c0e3803b
+SHA1: d94ad6eb5152567287d5d081982bb26f337ed649
+SHA256: 88f3ddcf3844db28a09202292c553b2c0fde5232ae82995da743c3f6734534bc
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoScrollbarGrabbing
+
 Package: com.nscake.noscrollbargrabdelay
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -104,16 +120,14 @@ Maintainer: Tanner Bennett <thepantsthief@me.com>
 Installed-Size: 172
 Depends: mobilesubstrate
 Filename: ./debs/com.nscake.photos.fixphotos_1.0.1.deb
-Size: 7874
-MD5sum: 3809d6bec63502aeb15f8fdd924df885
-SHA1: 8cc3a5d3cdad93ef0529e6e2d61edb1cf837beeb
-SHA256: 173b59731424f6bd2caaf3971bf160e5fb15f2ecaf59f2bb501ec5e1ef1ab5de
+Size: 7800
+MD5sum: f6294ac49fb1eb7e5b6a46b69f5d16d2
+SHA1: a58ae24c847b30c2575f6aa5e3c43dfdad6edbbb
+SHA256: dc20daa33a732379864c0ccabc1507dcb6ff0fbfb9de260f991d5295b4d27ba2
 Section: Tweaks
 Description: Various tweaks for the iOS 13 Photos app.
 Author: Tanner Bennett <thepantsthief@me.com>
-Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
 Name: FixPhotos
-Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
 
 Package: com.nscake.photos.noscreenshots
 Version: 1.0.0
