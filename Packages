@@ -14,6 +14,23 @@ Description: Disable delaysContentTouches on all scroll views
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: ResponsiveScrollViews
 
+Package: com.nscake.fixmaps
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 168
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.fixmaps_0.0.1.deb
+Size: 3156
+MD5sum: 99492da7f150e9550b3157efb3f609d3
+SHA1: cccd7c39b9882ec149b83011f742c4ad91f345e5
+SHA256: 08d94c79fbaa2eb23cc1ec2a51019323a66acf9d44f011fb73d7f9591a559c60
+Section: Tweaks
+Description: Enable the fullscreen photo gallery in Maps.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: FixMaps
+
 Package: com.nscake.icleanerzombie
 Version: 0.0.1
 Architecture: iphoneos-arm
