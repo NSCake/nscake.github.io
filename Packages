@@ -226,6 +226,22 @@ Description: Fix SwipeExpander crashing on iOS 13
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: SwipeExpanderFix
 
+Package: com.nscake.swipeexpanderfix
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.nscake.swipeexpanderfix_0.0.3.deb
+Size: 3740
+MD5sum: 431845fdebf922901c99108d3cc0bc59
+SHA1: 01e51d4e6e96382d3b7b6f834e822f270dbc907a
+SHA256: acf921a39d4bb037a10926cd0f9436cecddf5188b653a6e56e2aa4f040c5aa58
+Section: Tweaks
+Description: Fix SwipeExpander crashing on iOS 13
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: SwipeExpanderFix
+
 Package: com.nsexceptional.darksnapchat
 Version: 0.0.1
 Architecture: iphoneos-arm
