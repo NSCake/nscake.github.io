@@ -1,3 +1,31 @@
+Package: com.brunonfl.wifisshfordropbear
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Filename: ./debs/com.brunonfl.wifisshfordropbear_1.2_iphoneos-arm.deb
+Size: 1148
+MD5sum: c4fa5388dae2c4ece668dc8e896b28a6
+SHA1: f230915ce05b77d3247717d8d5b60d479cf0c2ff
+SHA256: 51d335a128bada9d9e743dfa5c835b34916f89f6ca658967bcdd18b89a091d22
+Section: System
+Description: Make SSH Great Again!
+Tag: role::hacker
+Author: Bruno Andrade <brubiluco@globo.com>
+Name: Wi-Fi SSH for Dropbear
+
+Package: com.lcampbell0x.dropbear
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 1.0)
+Filename: ./debs/Dropbear.deb
+Size: 1832962
+MD5sum: c8f4767f3ae14767eed689fdd5591995
+SHA1: 9fedce104ac61032ecd85f4a9cb9baa60c2b35f4
+SHA256: 5b1058f0b7c6a8cf3fd1aedf0b7a8dbf08266f9e6384a89c5581dd5b60b12549
+Section: System
+Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB (Wi-Fi SSH is not enabled by default.)
+Name: Dropbear
+
 Package: com.nscake.delayscontenttouches
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -441,6 +469,22 @@ Section: Tweaks
 Description: A library for Flipboard Explorer.
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: libFLEX
+
+Package: org.coolstar.scp-sftp-dropbear
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: openssl
+Conflicts: openssh
+Filename: ./debs/scp-sftp-dropbear.deb
+Size: 196386
+MD5sum: 4221c938339c2e21cd4758e2b4a41212
+SHA1: d7675f2dc6ec58662e85da4a14b9ddf9db7cf312
+SHA256: 2a0253ba7e20ad7bd25f8304f500199bb549b7cbada7279c50aa684f613ecad4
+Section: System
+Description: Add SCP and SFTP for use with dropbear SSH server. (Useful with Yalu jailbreaks).
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: SCP and SFTP for dropbear
 
 Package: xyz.tie1r.bc
 Version: 1.0.7
