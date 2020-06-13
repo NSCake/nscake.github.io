@@ -442,3 +442,31 @@ Description: A library for Flipboard Explorer.
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: libFLEX
 
+Package: xyz.tie1r.bc
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: tie1r <tie1r@tie1r.xyz>
+Filename: ./debs/bc.deb
+Size: 46156
+MD5sum: b31e789dd4094738f8f627ea6ee49ffa
+SHA1: ad91f525d076f7e568aefea2d2719d9438ec89de
+SHA256: a14acc6b0d08a6bfe0023b9b6099960826eda6dbbabc2eee548c3129a381c38b
+Section: Utilities
+Description: bc is an arbitrary precision numeric processing language. Syntax is similar to C, but differs in many substantial areas. It supports interactive execution of statements. bc is a utility included in the POSIX P1003.2/D11 draft standard.
+Author: tie1r <tie1r@tie1r.xyz>
+Name: bc
+
+Package: xyz.tie1r.t3nbelow
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Depends: bc,shell-cmds
+Filename: ./debs/t3nbelow.deb
+Size: 340728
+MD5sum: e1599a47ee2d2b96f03f7765d8e34963
+SHA1: f231fd6cffe7672cf72f66a1ef61c97dda8bb4b0
+SHA256: f0690e1431aea07efdaa03213b278b3d1f96ba85ca6b0afd1e8b7a3d10c698d9
+Section: Utilities
+Description: Downgrade iOS 9.x/10.x to 8.4.1. Only Support iPhone 5, 4s, and iPod Touch 5g.
+Author: tie1r <tie1r@tie1r.xyz>
+Name: t3nbelow
+
