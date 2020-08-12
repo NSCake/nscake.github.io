@@ -222,6 +222,24 @@ Description: Enhancements to the Reddit app
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: RedditGold
 
+Package: com.nscake.redditgold
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 440
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.redditgold_1.1.2.deb
+Size: 56808
+MD5sum: 08cdcff59e323fbfd10936337eb9e1d0
+SHA1: c39629f6d572d95efcdd3e44d91f62a3c71317fc
+SHA256: 2fc465e423551f02b55e0f88d23957db385f5df7ee82a4741f9173fee9f3c26e
+Section: Tweaks
+Description: Enhancements to the Reddit app
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.nscake.redditgold
+Name: RedditGold
+Sileodepiction: https://nscake.github.io/depictions/com.nscake.redditgold.sileo.json
+
 Package: com.nscake.settingssections
 Version: 0.0.1
 Architecture: iphoneos-arm
