@@ -392,6 +392,26 @@ Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
 Name: FLEXing
 Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
 
+Package: com.pantsthief.flexing
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 288
+Pre-Depends: firmware (>= 8.0)
+Depends: libflex
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./debs/com.pantsthief.flexing_1.3.1.deb
+Size: 17964
+MD5sum: 267508e889fdc9d1d17e49884f6a0c3e
+SHA1: 28c1b991b7c4a9fb8646740018104c0d93bd3d0e
+SHA256: 72cf2421919f9e21fde0b1eda42e01f1b6cdaca7521dfd8d7477e4f2846b792d
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+Name: FLEXing
+Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
 Package: com.pantsthief.nossl
 Version: 0.0.1
 Architecture: iphoneos-arm
