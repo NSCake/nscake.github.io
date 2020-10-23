@@ -401,10 +401,10 @@ Pre-Depends: firmware (>= 8.0)
 Depends: libflex
 Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
 Filename: ./debs/com.pantsthief.flexing_1.3.1.deb
-Size: 17964
-MD5sum: 267508e889fdc9d1d17e49884f6a0c3e
-SHA1: 28c1b991b7c4a9fb8646740018104c0d93bd3d0e
-SHA256: 72cf2421919f9e21fde0b1eda42e01f1b6cdaca7521dfd8d7477e4f2846b792d
+Size: 17968
+MD5sum: 703c268e4dd76d42bcd7e12c5d95ebb8
+SHA1: 03bc810e46f859b5cbc1258d0e4fc0e3915654a3
+SHA256: 3316c955414efc65397793a0926692796a044677119043fe002097c2eaa170e5
 Section: Tweaks
 Description: Open FLEX anywhere!
 Author: Tanner Bennett <thepantsthief@me.com>
