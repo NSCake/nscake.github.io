@@ -526,6 +526,23 @@ Description: Various SpringBoard tweaks for iOS 11+
 Author: Tanner Bennett
 Name: TBTweaks11
 
+Package: com.pantsthief.tbtweaks11
+Version: 14.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 148
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.tbtweaks11_14.0.deb
+Size: 10608
+MD5sum: 5afb1901b4882dfa5328b35257019138
+SHA1: 033d5d6f37c28f1d51639373d9f59eccf3b9d1c9
+SHA256: 90dd8c54783d908bba603eecb3dfb96dd0bcaec26638d1572bf740ea1b4c5bc2
+Section: Tweaks
+Description: Various SpringBoard tweaks for iOS 11+
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: TBTweaks11
+
 Package: libflex
 Version: 4.1.1-1
 Architecture: iphoneos-arm
