@@ -66,10 +66,42 @@ Maintainer: Tanner Bennett <thepantsthief@me.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.nscake.icleanerzombie_0.0.1.deb
-Size: 2888
-MD5sum: 83fedd915e8473ec1a5b51b68fd15739
-SHA1: 69ce1fee94226ae88a205d2acc1fb80aeff99b14
-SHA256: f303a95a72f5d763fb0446095acd1f19129671c6ccd86cc9fefac494a64b2964
+Size: 3314
+MD5sum: c44a9246d6ddaa0e18a80fec15e9a8f7
+SHA1: 6ad87121d9656f7d351614853921e7b6b5a3c2d7
+SHA256: c41a4143c87c62bae6049332888ff508b297e32f2fa30a3ac60dcbd9d5f69868
+Section: Tweaks
+Description: Keep iCleaner alive when you leave the app
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: iCleanerZombie
+
+Package: com.nscake.icleanerzombie
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.icleanerzombie_0.0.2.deb
+Size: 6336
+MD5sum: 377907095c66e4efc89d797824d09641
+SHA1: 9607b458dcbfb3986e8a9e4a181cb15ca8bf0817
+SHA256: 1a3c5d96ba9b5e6e19f165dc78cae2d9c3f78b524ed2923c6a6da9940a896fbb
+Section: Tweaks
+Description: Keep iCleaner alive when you leave the app
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: iCleanerZombie
+
+Package: com.nscake.icleanerzombie
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.icleanerzombie_0.0.3.deb
+Size: 6530
+MD5sum: 6f30ed1821072a29a26f7876ce96cd04
+SHA1: 4ef171c4c282a02da31f62ce1e4137435201723f
+SHA256: 3a86e57d6e9d0674318d22a43bc6055b1b18eeee987fed55307f075f1f6afebe
 Section: Tweaks
 Description: Keep iCleaner alive when you leave the app
 Author: Tanner Bennett <thepantsthief@me.com>
