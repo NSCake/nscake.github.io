@@ -338,6 +338,22 @@ Description: Fix SwipeExpander crashing on iOS 13
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: SwipeExpanderFix
 
+Package: com.nscake.tbhomebuttonbar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.tbhomebuttonbar_0.0.1.deb
+Size: 6288
+MD5sum: 04ebb27eaa77bebce45cb3562dfa1d38
+SHA1: 43b9f0b16d5638ecbe357f1b4ae4da9cffe48b26
+SHA256: 775790b674bd50c7a05f31744f01f0fb5b12133437e282b2796b897bd51b1e0f
+Section: Tweaks
+Description: Tap the home bar to go to the home screen.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: TBHomeButtonBar
+
 Package: com.nsexceptional.darksnapchat
 Version: 0.0.1
 Architecture: iphoneos-arm
