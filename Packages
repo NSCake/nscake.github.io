@@ -1,47 +1,3 @@
-Package: com.brunonfl.wifisshfordropbear
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Bruno Andrade <brubiluco@globo.com>
-Filename: ./debs/com.brunonfl.wifisshfordropbear_1.2_iphoneos-arm.deb
-Size: 1148
-MD5sum: c4fa5388dae2c4ece668dc8e896b28a6
-SHA1: f230915ce05b77d3247717d8d5b60d479cf0c2ff
-SHA256: 51d335a128bada9d9e743dfa5c835b34916f89f6ca658967bcdd18b89a091d22
-Section: System
-Description: Make SSH Great Again!
-Tag: role::hacker
-Author: Bruno Andrade <brubiluco@globo.com>
-Name: Wi-Fi SSH for Dropbear
-
-Package: com.lcampbell0x.dropbear
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 1.0)
-Filename: ./debs/Dropbear.deb
-Size: 1832962
-MD5sum: c8f4767f3ae14767eed689fdd5591995
-SHA1: 9fedce104ac61032ecd85f4a9cb9baa60c2b35f4
-SHA256: 5b1058f0b7c6a8cf3fd1aedf0b7a8dbf08266f9e6384a89c5581dd5b60b12549
-Section: System
-Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB (Wi-Fi SSH is not enabled by default.)
-Name: Dropbear
-
-Package: com.nscake.delayscontenttouches
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: ./debs/com.nscake.delayscontenttouches_0.0.1.deb
-Size: 4050
-MD5sum: f1193dc2a0e712f42c360bc69bcf0430
-SHA1: ee6b630e2f3e88535111d0b3358660676f6079b6
-SHA256: 9f917052a0361805db2f23105a6104768247e75507857c8868f6b11aefe4fae1
-Section: Tweaks
-Description: Disable delaysContentTouches on all scroll views
-Author: Tanner Bennett <thepantsthief@me.com>
-Name: ResponsiveScrollViews
-
 Package: com.nscake.fixmaps
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -156,22 +112,6 @@ Description: Removes the delay when trying to drag a scroll bar.
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: NoScrollbarGrabDelay
 
-Package: com.nscake.nossl
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 232
-Depends: mobilesubstrate
-Filename: ./debs/com.nscake.nossl_0.0.1.deb
-Size: 7936
-MD5sum: fe423b1e2828a72d56937caf7ba0e434
-SHA1: d8e466413ffc8647d4dc15f153d6c1b8a75cf1bc
-SHA256: d49a864c8a281fdf723d2fde4d8f2a106d8078a5fdd26728fcd1000309ab609b
-Section: Tweaks
-Description: Disable SSL cert pinning
-Author: Tanner Bennett <thepantsthief@me.com>
-Name: NoSSL
-
 Package: com.nscake.notwitterlinkanalytics
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -189,38 +129,6 @@ Author: Tanner Bennett <thepantsthief@me.com>
 Depiction: https://nscake.github.io/package.html?package=com.nscake.notwitterlinkanalytics
 Name: NoTwitterLinkAnalytics
 Sileodepiction: https://nscake.github.io/depictions/com.nscake.notwitterlinkanalytics.sileo.json
-
-Package: com.nscake.photos.fixphotos
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/com.nscake.photos.fixphotos_1.0.1.deb
-Size: 7800
-MD5sum: f6294ac49fb1eb7e5b6a46b69f5d16d2
-SHA1: a58ae24c847b30c2575f6aa5e3c43dfdad6edbbb
-SHA256: dc20daa33a732379864c0ccabc1507dcb6ff0fbfb9de260f991d5295b4d27ba2
-Section: Tweaks
-Description: Various tweaks for the iOS 13 Photos app.
-Author: Tanner Bennett <thepantsthief@me.com>
-Name: FixPhotos
-
-Package: com.nscake.photos.noscreenshots
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/com.nscake.photos.noscreenshots_1.0.0.deb
-Size: 8120
-MD5sum: 2f5a7684dbe9180339e2ccad0b9c3e89
-SHA1: 96d17cfae40abb4e719fefb93525148e3c819f18
-SHA256: a4a2b184e7dac994fdf9a31f3361cb02824c898f6ae6d1139106d73d7977dcac
-Section: Tweaks
-Description: Hides screenshots and screen recordings from the main Photos tab. Also makes the theater navigation bars hide instantly.
-Author: Tanner Bennett <thepantsthief@me.com>
-Name: NoScreenshots
 
 Package: com.nscake.redditgold
 Version: 1.0.0
@@ -354,22 +262,6 @@ Description: Tap the home bar to go to the home screen.
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: TBHomeButtonBar
 
-Package: com.nsexceptional.darksnapchat
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 180
-Depends: mobilesubstrate
-Filename: ./debs/com.nsexceptional.darksnapchat_0.0.1.deb
-Size: 9094
-MD5sum: 594dee32de40a3e620e77de96cce92ac
-SHA1: 26c6438245223b9d6a361defeac5c3a7bec1bb5b
-SHA256: 6a6f937c7ee5da8078071119b9cd997a06b3717d0588a765e13b5dba6b4d4efb
-Section: Tweaks
-Description: Dark mode and no Discover for Snapchat
-Author: Tanner Bennett <thepantsthief@me.com>
-Name: DarkSnapchat
-
 Package: com.pantsthief.flexing
 Version: 0.0.8
 Architecture: iphoneos-arm
@@ -478,22 +370,6 @@ Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
 Name: FLEXing
 Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
 
-Package: com.pantsthief.nossl
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Tanner Bennett
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.pantsthief.nossl_0.0.1.deb
-Size: 5350
-MD5sum: c802097bbe2ac74e772910ef69d33aff
-SHA1: 897016c540f665f5995ff69e67bc7621ed072e6d
-SHA256: ccff736111f446ed6ca786545c3d243cd668a4accd050e747a03dc51ceb86208
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Tanner Bennett
-Name: NoSSL
-
 Package: com.pantsthief.retrotabbar
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -510,38 +386,21 @@ Description: An awesome MobileSubstrate tweak!
 Author: Tanner Bennett
 Name: RetroTabBar
 
-Package: com.pantsthief.tbtweaks11
-Version: 13.4
+Package: com.thatmarcel.tweaks.sfsafaricookies
+Version: 1.0.2
 Architecture: iphoneos-arm
-Maintainer: Tanner Bennett
-Installed-Size: 148
+Maintainer: Marcel Braun
+Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.pantsthief.tbtweaks11_13.4.deb
-Size: 10388
-MD5sum: 49f79d8779a85c574bfacf25f1264ef3
-SHA1: bad71c72edec8943844253cad22d231c4d283398
-SHA256: 6faafa07e963074e60dbffb89ca8710367a0fe59f03a7da01917b12b58dbe155
+Filename: ./debs/com.thatmarcel.tweaks.sfsafaricookies_1.0.2.deb
+Size: 4126
+MD5sum: 29857447beff6df161864d58ec8b6633
+SHA1: a8f5fa8fb1335050d81770c83fdcc4e75f5befd7
+SHA256: 1961928103eef10a459b102661ef6b95cc890befdb574d2927f3409c92462add
 Section: Tweaks
-Description: Various SpringBoard tweaks for iOS 11+
-Author: Tanner Bennett
-Name: TBTweaks11
-
-Package: com.pantsthief.tbtweaks11
-Version: 14.0
-Architecture: iphoneos-arm
-Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 148
-Pre-Depends: firmware (>= 11.0)
-Depends: mobilesubstrate
-Filename: ./debs/com.pantsthief.tbtweaks11_14.0.deb
-Size: 10608
-MD5sum: 5afb1901b4882dfa5328b35257019138
-SHA1: 033d5d6f37c28f1d51639373d9f59eccf3b9d1c9
-SHA256: 90dd8c54783d908bba603eecb3dfb96dd0bcaec26638d1572bf740ea1b4c5bc2
-Section: Tweaks
-Description: Various SpringBoard tweaks for iOS 11+
-Author: Tanner Bennett <thepantsthief@me.com>
-Name: TBTweaks11
+Description: Make SFSafariViewController share cookies with Safari
+Author: Marcel Braun
+Name: SFCookies
 
 Package: libflex
 Version: 4.1.1-1
@@ -557,38 +416,6 @@ SHA256: 6425607fc72f4e7e11beb45d67508b8182060f582ad7e8ecfc4029d69c2d1aad
 Section: Tweaks
 Description: A library for Flipboard Explorer.
 Author: Tanner Bennett
-Name: libFLEX
-
-Package: libflex
-Version: 4.1.2~b
-Architecture: iphoneos-arm
-Maintainer: Tanner Bennett
-Installed-Size: 8068
-Pre-Depends: firmware (>= 9.0)
-Filename: ./debs/libflex_4.1.2~b.deb
-Size: 1999548
-MD5sum: 1ccabe30a2ff8f7d36a0838dd91fe9da
-SHA1: 7e7a6e4ff2b6423c0275617d02d74c09c630666a
-SHA256: 77d327c2496928a54243298655e20c1311397cac82f4d7096d52dd75474c83de
-Section: Tweaks
-Description: A library for Flipboard Explorer.
-Author: Tanner Bennett
-Name: libFLEX
-
-Package: libflex
-Version: 4.1.2~b2
-Architecture: iphoneos-arm
-Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 8072
-Pre-Depends: firmware (>= 9.0)
-Filename: ./debs/libflex_4.1.2~b2.deb
-Size: 2009260
-MD5sum: 58fd7766a8c97ab3227eac046beb35d3
-SHA1: 3310789373769d970a7a7579ee596efefb41a98c
-SHA256: b239a694400fcebe3959a6f242816ce02290f9e41b20925d4c5b60858ac7e436
-Section: Tweaks
-Description: A library for Flipboard Explorer.
-Author: Tanner Bennett <thepantsthief@me.com>
 Name: libFLEX
 
 Package: libflex
@@ -622,48 +449,4 @@ Section: Tweaks
 Description: A library for Flipboard Explorer.
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: libFLEX
-
-Package: org.coolstar.scp-sftp-dropbear
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: CoolStar <coolstarorganization@gmail.com>
-Depends: openssl
-Conflicts: openssh
-Filename: ./debs/scp-sftp-dropbear.deb
-Size: 196386
-MD5sum: 4221c938339c2e21cd4758e2b4a41212
-SHA1: d7675f2dc6ec58662e85da4a14b9ddf9db7cf312
-SHA256: 2a0253ba7e20ad7bd25f8304f500199bb549b7cbada7279c50aa684f613ecad4
-Section: System
-Description: Add SCP and SFTP for use with dropbear SSH server. (Useful with Yalu jailbreaks).
-Author: CoolStar <coolstarorganization@gmail.com>
-Name: SCP and SFTP for dropbear
-
-Package: xyz.tie1r.bc
-Version: 1.0.7
-Architecture: iphoneos-arm
-Maintainer: tie1r <tie1r@tie1r.xyz>
-Filename: ./debs/bc.deb
-Size: 46156
-MD5sum: b31e789dd4094738f8f627ea6ee49ffa
-SHA1: ad91f525d076f7e568aefea2d2719d9438ec89de
-SHA256: a14acc6b0d08a6bfe0023b9b6099960826eda6dbbabc2eee548c3129a381c38b
-Section: Utilities
-Description: bc is an arbitrary precision numeric processing language. Syntax is similar to C, but differs in many substantial areas. It supports interactive execution of statements. bc is a utility included in the POSIX P1003.2/D11 draft standard.
-Author: tie1r <tie1r@tie1r.xyz>
-Name: bc
-
-Package: xyz.tie1r.t3nbelow
-Version: 1.0.0-1
-Architecture: iphoneos-arm
-Depends: bc,shell-cmds
-Filename: ./debs/t3nbelow.deb
-Size: 340728
-MD5sum: e1599a47ee2d2b96f03f7765d8e34963
-SHA1: f231fd6cffe7672cf72f66a1ef61c97dda8bb4b0
-SHA256: f0690e1431aea07efdaa03213b278b3d1f96ba85ca6b0afd1e8b7a3d10c698d9
-Section: Utilities
-Description: Downgrade iOS 9.x/10.x to 8.4.1. Only Support iPhone 5, 4s, and iPod Touch 5g.
-Author: tie1r <tie1r@tie1r.xyz>
-Name: t3nbelow
 
