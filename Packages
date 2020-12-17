@@ -450,3 +450,19 @@ Description: A library for Flipboard Explorer.
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: libFLEX
 
+Package: libflex
+Version: 4.3.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 10676
+Pre-Depends: firmware (>= 9.0)
+Filename: ./debs/libflex_4.3.0.deb
+Size: 2748692
+MD5sum: 3a18d0c11f38ec2aff851a5980447d68
+SHA1: d371bcfafba364b17c2c857a9801e231b8845f35
+SHA256: b4a03a6338cf928ca10a7592e1bfd309d646d3e3f1a56dc5460d660e4d0252d0
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: libFLEX
+
