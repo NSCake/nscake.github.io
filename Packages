@@ -386,6 +386,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Tanner Bennett
 Name: RetroTabBar
 
+Package: com.pantsthief.retrotabbar
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.retrotabbar_0.0.2.deb
+Size: 4620
+MD5sum: 5081d42943ed0acddda744e504acb1e6
+SHA1: 8a10e4a753b7c34739f8ba4e0c8f140a17f1277e
+SHA256: f0baa18acd8fa1b7aae8a993e99594fc3736a16d5e9feaa1671895409d13e7a4
+Section: Tweaks
+Description: Give the tab bar a retro look.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: RetroTabBar
+
 Package: com.thatmarcel.tweaks.sfsafaricookies
 Version: 1.0.2
 Architecture: iphoneos-arm
