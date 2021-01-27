@@ -1,0 +1,1 @@
+{"package":"libflex","name":"libFLEX","depiction":"A dynamically loadable library for FLEX. Requires a loader, such as FLEXing.\n\n<a href=\"https://github.com/FLEXTool/FLEX/releases\">Changelog</a>","pre-depends":"iOS >= 9.0"}
