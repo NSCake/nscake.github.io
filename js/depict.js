@@ -74,7 +74,7 @@ whenDocumentReady(function() {
 loadDepiction(depictionURL, function(json) {
     whenDocumentReady(function() {
         document.getElementById('tweak-name').textContent = json.name;
-        document.getElementById('depiction').textContent = json.depiction;
+        document.getElementById('depiction').innerHTML = json.depiction;
 
         if (json.depends) {
             document.getElementById('dependencies').hidden = false;
