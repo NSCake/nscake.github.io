@@ -1,3 +1,19 @@
+Package: com.nscake.cellularota
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nscake.cellularota_0.0.1.deb
+Size: 4032
+MD5sum: d4aaa1400e1da3fa0eb920a89e7133af
+SHA1: a71515654ee962cb088bad8fcbc8f024b92c795e
+SHA256: dc7841a371f6b1fc9dac40ffd4c02f9f538a8dd1bfeeca8a3ebd07206d4cf579
+Section: Tweaks
+Description: Allow downloading OTA updates over cellular.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: CellularOTA
+
 Package: com.nscake.fixmaps
 Version: 0.0.1
 Architecture: iphoneos-arm
