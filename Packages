@@ -1,3 +1,18 @@
+Package: com.nscake.alwaysactive
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 160
+Filename: ./debs/com.nscake.alwaysactive_0.0.1.deb
+Size: 5962
+MD5sum: 970b718c5a5f02527863504fb99ec06f
+SHA1: 3d1c94c7b762e47f59be230fd7a9bb4ee5cd6b43
+SHA256: 7924b9fbf1f701ac7e81d78500e9834cb4041f9f8211d0a042f066df7722e1b9
+Section: Tweaks
+Description: Don't tell apps when they've been backgrounded
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: AlwaysActive
+
 Package: com.nscake.cellularota
 Version: 0.0.1
 Architecture: iphoneos-arm
