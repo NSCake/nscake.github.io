@@ -13,6 +13,21 @@ Description: Don't tell apps when they've been backgrounded
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: AlwaysActive
 
+Package: com.nscake.alwaysactive
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 156
+Filename: ./debs/com.nscake.alwaysactive_0.0.2.deb
+Size: 5446
+MD5sum: b5c9d265526d05bd4447a14922479cd3
+SHA1: 2afb12961b6ea7b69499ecff66076a94cc74a5dd
+SHA256: 10b5e85728e9cd8a517aada489a068204e3db4e3e88ecb5eb741662ef1c5ffb9
+Section: Tweaks
+Description: Don't tell (some) apps when they've been backgrounded
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: AlwaysActive
+
 Package: com.nscake.cellularota
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -143,6 +158,22 @@ Description: Removes the delay when trying to drag a scroll bar.
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: NoScrollbarGrabDelay
 
+Package: com.nscake.nothingtoseehere
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.nothingtoseehere_0.0.3.deb
+Size: 5768
+MD5sum: 400ea45a7ebfce0def8fc66f88a47d9c
+SHA1: b33942db265b9b7ac12ecfa3f0d87bbb795014f6
+SHA256: b4931433df526a9402855484568632224806a41fdff3b4951678bd9562c0bcdd
+Section: Tweaks
+Description: Blur Discover tiles in Snapchat.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: SCNoClickbait
+
 Package: com.nscake.notwitterlinkanalytics
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -222,6 +253,24 @@ Size: 70024
 MD5sum: abaeec7fdddadfcb5cc65384da961628
 SHA1: 2348996d3c877072c034793e17c6ddc27754d95f
 SHA256: 4bec685cfa404b99587661f599131d66efbad11f78559519029fec2086b35216
+Section: Tweaks
+Description: Enhancements to the Reddit app
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.nscake.redditgold
+Name: RedditGold
+Sileodepiction: https://nscake.github.io/depictions/com.nscake.redditgold.sileo.json
+
+Package: com.nscake.redditgold
+Version: 1.3.0~b
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 164
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.redditgold_1.3.0~b.deb
+Size: 28620
+MD5sum: 26d1c70a64ddbab24f328e803f97be83
+SHA1: ff4930eebc907daef33004f4cb143b3a4f5bf948
+SHA256: 950511f7e4c39db2ae26a7cfefdf0dccb5c73a6c1ffd0f3c5f0de264c9f9d359
 Section: Tweaks
 Description: Enhancements to the Reddit app
 Author: Tanner Bennett <thepantsthief@me.com>
