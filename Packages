@@ -1,3 +1,19 @@
+Package: com.ioscreatix.sugarcane
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix, kasiimh1, baptistecdr
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.ioscreatix.sugarcane_1.2.2_iphoneos-arm.deb
+Size: 6170
+MD5sum: 9c63c0031b416bfb1bca3579f19173b7
+SHA1: b2218ecc62ed6066af44441388f1089854c553eb
+SHA256: 409bea76ed4113923fe735fd9797fc60deaa9ac5474947bd23b0cbb4b1099cec
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center on iOS 11, 12 & 13
+Author: iOS Creatix, kasiimh1
+Name: SugarCane
+
 Package: com.nscake.alwaysactive
 Version: 0.0.1
 Architecture: iphoneos-arm
