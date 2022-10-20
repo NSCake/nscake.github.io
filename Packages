@@ -582,13 +582,49 @@ Package: libflex
 Version: 4.4.0
 Architecture: iphoneos-arm
 Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 10468
+Installed-Size: 10608
 Pre-Depends: firmware (>= 9.0)
 Filename: ./debs/libflex_4.4.0.deb
-Size: 2782774
-MD5sum: 123684d37c6d663c2d8d324a37e9ebfb
-SHA1: bfaa4d06c02f3d18a639b35b34531fe4e24662f3
-SHA256: 951392492f686cb63c28a55d987d9071aea6a60bb2fba0d1064da9f149de4a13
+Size: 2812572
+MD5sum: c9b15148b31d7ba9d23866e51e340efc
+SHA1: 047b832605cc22ccd28d42b9366037c4b588d5f2
+SHA256: 2e33644ec7d910dd25aa0e7a45510238f28eb2e11820988696e0fb6c89155b25
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=libflex
+Name: libFLEX
+Sileodepiction: https://nscake.github.io/depictions/libflex.sileo.json
+
+Package: libflex
+Version: 4.6.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 10920
+Pre-Depends: firmware (>= 9.0)
+Filename: ./debs/libflex_4.6.0.deb
+Size: 2897314
+MD5sum: 468182f500f016467d31592d3082caec
+SHA1: 1f309ebda89f5a215b9cb26f74f81acb6cea7499
+SHA256: 3cf15310ef093a16a870a2cd8aaca2ca876c5b2146f4cb648dfaffcaa804c162
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=libflex
+Name: libFLEX
+Sileodepiction: https://nscake.github.io/depictions/libflex.sileo.json
+
+Package: libflex
+Version: 5.22.10
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 11420
+Pre-Depends: firmware (>= 9.0)
+Filename: ./debs/libflex_5.22.10.deb
+Size: 2878638
+MD5sum: 1bc68474cf4436d15f9af11e1c166f30
+SHA1: 932ee3f567bbaf7761221cd89f08028a5f507d65
+SHA256: cfbfe97973e4032db83d1190a22073ff57abbfa8a0b6ae1771655c46b305a0e2
 Section: Tweaks
 Description: A library for Flipboard Explorer.
 Author: Tanner Bennett <thepantsthief@me.com>
